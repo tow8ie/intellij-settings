@@ -1,0 +1,8 @@
+<list display="Splits" description="Actions for working with window splits">
+  <action id="SplitVertically" />
+  <action id="SplitHorizontally" />
+  <action id="MoveTabRight" />
+  <action id="UnsplitAll" />
+  <action id="CloseAllEditors" />
+  <action id="Unsplit" />
+</list>
