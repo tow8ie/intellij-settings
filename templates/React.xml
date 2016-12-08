@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="stcomp" value="import * as React from 'react';&#10;import StatelessComponent = React.StatelessComponent;&#10;&#10;interface $COMPONENT_NAME$Props {}&#10;&#10;export const $COMPONENT_NAME$: StatelessComponent&lt;$COMPONENT_NAME$Props&gt; = () =&gt; {&#10;  return (&#10;    &lt;div&gt;The $COMPONENT_NAME$ component!&lt;/div&gt;&#10;  );&#10;};&#10;&#10;export default $COMPONENT_NAME$;&#10;" description="Stateless React Component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
