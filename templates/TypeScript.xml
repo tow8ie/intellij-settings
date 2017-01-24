@@ -1,0 +1,7 @@
+<templateSet group="TypeScript">
+  <template name="noc" value="// tslint:disable-next-line:no-console" description="Disable TSLint warning for console for the next line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
