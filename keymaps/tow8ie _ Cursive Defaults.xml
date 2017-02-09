@@ -92,6 +92,9 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="QuickList.Splits">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
