@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'merchant-pipe_main'" />
     <option name="defaultScopeName" value="Module 'merchant-pipe_main'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'merchant-pipe_main'" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -16,6 +18,8 @@
       <mask>*.css, *.scss, *.ts</mask>
       <mask>*.css, *.scss</mask>
       <mask>*.ts</mask>
+      <mask>*.clj</mask>
+      <mask>*.clj*</mask>
     </recentFileMasks>
   </component>
 </application>

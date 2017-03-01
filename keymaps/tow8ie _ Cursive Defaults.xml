@@ -1,0 +1,125 @@
+<keymap version="1" name="tow8ie + Cursive Defaults" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/backward">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id=":cursive.actions.paredit/backward-up">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-backwards">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id=":cursive.actions.paredit/close-curly-and-newline">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id=":cursive.actions.paredit/close-paren-and-newline">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id=":cursive.actions.paredit/close-square-and-newline">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id=":cursive.actions.paredit/copy-as-kill">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id=":cursive.actions.paredit/forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id=":cursive.actions.paredit/forward-down">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id=":cursive.actions.paredit/join">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+  </action>
+  <action id=":cursive.actions.paredit/kill">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id=":cursive.actions.paredit/kill-sexp">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-down">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-up">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id=":cursive.actions.paredit/raise">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id=":cursive.actions.paredit/thread-form">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
+  <action id=":cursive.actions.paredit/unthread-form">
+    <keyboard-shortcut first-keystroke="meta alt period" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-curly">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-paren">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-quotes">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-square">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id=":cursive.repl.actions/search-history">
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
+  <action id=":cursive.repl.actions/sync-files">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+  <action id=":cursive.testing.actions/remove-test-markers">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="QuickList.Splits">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="TabShiftActions.StretchLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+  </action>
+  <action id="TabShiftActions.StretchRight">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+  </action>
+</keymap>
