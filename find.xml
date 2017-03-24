@@ -5,12 +5,12 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -18,8 +18,12 @@
       <mask>*.css, *.scss, *.ts</mask>
       <mask>*.css, *.scss</mask>
       <mask>*.ts</mask>
-      <mask>*.clj</mask>
       <mask>*.clj*</mask>
+      <mask>*.clj</mask>
+      <mask>*.cl</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
