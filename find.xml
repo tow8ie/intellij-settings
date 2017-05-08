@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>java</mask>
       <mask>*.html</mask>
@@ -13,8 +13,6 @@
       <mask>*.ts, *</mask>
       <mask>*.ts,</mask>
       <mask>*.ts,</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*ts</mask>
       <mask>*t</mask>
       <mask>*.c</mask>
@@ -33,8 +31,10 @@
       <mask>*.t</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ts</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
