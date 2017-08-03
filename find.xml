@@ -5,11 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.ts, *</mask>
-      <mask>*.ts,</mask>
       <mask>*.ts,</mask>
       <mask>*ts</mask>
       <mask>*t</mask>
@@ -37,6 +33,9 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.ts*.ts</mask>
+      <mask>*.ts *.ts</mask>
+      <mask>*.ts *.t</mask>
     </recentFileMasks>
   </component>
 </application>
