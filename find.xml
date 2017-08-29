@@ -5,12 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.`java`</mask>
       <mask>*.`s`</mask>
       <mask>*.`s</mask>
       <mask>*.`</mask>
@@ -36,6 +32,11 @@
       <mask>*.component.htm</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
