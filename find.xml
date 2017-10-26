@@ -2,40 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.ts,</mask>
-      <mask>*ts</mask>
-      <mask>*t</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.css, *.scss</mask>
-      <mask>*</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
-      <mask>*.propertie</mask>
-      <mask>*.prope</mask>
-      <mask>*.prop</mask>
-      <mask>*.pro</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.`java`</mask>
       <mask>*.`s`</mask>
       <mask>*.`s</mask>
       <mask>*.`</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.ts*.ts</mask>
       <mask>*.ts *.ts</mask>
       <mask>*.ts *.t</mask>
+      <mask>*.ts *.</mask>
+      <mask>*.ts *</mask>
+      <mask>*.ts</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.c</mask>
+      <mask>*.com</mask>
+      <mask>*.comp</mask>
+      <mask>*.compo</mask>
+      <mask>*.compon</mask>
+      <mask>*.compone</mask>
+      <mask>*.componen</mask>
+      <mask>*.component</mask>
+      <mask>*.component.</mask>
+      <mask>*.component.h</mask>
+      <mask>*.component.html</mask>
+      <mask>*.component.htm</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
