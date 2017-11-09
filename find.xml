@@ -5,12 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
-      <mask>*.`s`</mask>
-      <mask>*.`s</mask>
-      <mask>*.`</mask>
-      <mask>*.ts*.ts</mask>
-      <mask>*.ts *.ts</mask>
       <mask>*.ts *.t</mask>
       <mask>*.ts *.</mask>
       <mask>*.ts *</mask>
@@ -29,13 +25,18 @@
       <mask>*.component.h</mask>
       <mask>*.component.html</mask>
       <mask>*.component.htm</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>*..</mask>
+      <mask>*.</mask>
+      <mask>*.cl</mask>
+      <mask>*.cljs</mask>
+      <mask>*.cljc</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
