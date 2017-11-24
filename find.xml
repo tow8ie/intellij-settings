@@ -3,15 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.clj" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*.ts *.t</mask>
-      <mask>*.ts *.</mask>
       <mask>*.ts *</mask>
       <mask>*.ts</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.c</mask>
       <mask>*.com</mask>
       <mask>*.comp</mask>
       <mask>*.compo</mask>
@@ -31,10 +28,13 @@
       <mask>*</mask>
       <mask>*..</mask>
       <mask>*.</mask>
-      <mask>*.cl</mask>
       <mask>*.cljs</mask>
       <mask>*.cljc</mask>
       <mask>*.clj</mask>
+      <mask>*.cl</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
