@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
-      <mask>*.compo</mask>
       <mask>*.compon</mask>
       <mask>*.compone</mask>
       <mask>*.componen</mask>
@@ -19,21 +19,22 @@
       <mask>*.proper</mask>
       <mask>*.properties</mask>
       <mask>*..</mask>
-      <mask>*.cljs</mask>
       <mask>*.cljc</mask>
-      <mask>*.clj</mask>
-      <mask>*.cl</mask>
       <mask>**.css</mask>
       <mask>*.css</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
+      <mask>.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cl</mask>
+      <mask>*.cljs</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
