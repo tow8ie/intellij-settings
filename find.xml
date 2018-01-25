@@ -2,41 +2,38 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.`s`</mask>
-      <mask>*.`s</mask>
-      <mask>*.`</mask>
-      <mask>*.ts*.ts</mask>
-      <mask>*.ts *.ts</mask>
-      <mask>*.ts *.t</mask>
-      <mask>*.ts *.</mask>
-      <mask>*.ts *</mask>
-      <mask>*.ts</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.c</mask>
-      <mask>*.com</mask>
-      <mask>*.comp</mask>
-      <mask>*.compo</mask>
-      <mask>*.compon</mask>
-      <mask>*.compone</mask>
-      <mask>*.componen</mask>
-      <mask>*.component</mask>
-      <mask>*.component.</mask>
-      <mask>*.component.h</mask>
-      <mask>*.component.html</mask>
-      <mask>*.component.htm</mask>
-      <mask>*.</mask>
       <mask>*</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cl</mask>
+      <mask>*.cljs</mask>
+      <mask>*\.clj.</mask>
+      <mask>*.clj.</mask>
+      <mask>*.clj</mask>
+      <mask>*.clj,</mask>
+      <mask>*.clj, *</mask>
+      <mask>*.clj, *.</mask>
+      <mask>*.clj, *.c</mask>
+      <mask>*.clj, *.cl</mask>
+      <mask>*.clj, *.clj</mask>
+      <mask>*.clj, *.cljs</mask>
+      <mask>*.clj, *.cljs,</mask>
+      <mask>*.clj, *.cljs,</mask>
+      <mask>*.clj, *.cljs, *</mask>
+      <mask>*.clj, *.cljs, *.</mask>
+      <mask>*.clj, *.cljs, *.cl</mask>
+      <mask>*.clj, *.cljs, *.clj</mask>
+      <mask>*.clj, *.cljs, *.cljc</mask>
+      <mask>*.clj, *.cljs, *.cljc,</mask>
+      <mask>*.clj, *.cljs, *.cljc,</mask>
+      <mask>*.clj, *.cljs, *.cljc, *</mask>
+      <mask>*.clj, *.cljs, *.cljc, *.</mask>
+      <mask>*.clj, *.cljs, *.cljc, *.h</mask>
+      <mask>*.clj, *.cljs, *.cljc, *.ht</mask>
+      <mask>*.clj, *.cljs, *.cljc, *.htm</mask>
+      <mask>*.clj, *.cljs, *.cljc, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
