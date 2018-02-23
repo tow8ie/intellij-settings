@@ -29,11 +29,11 @@
       <mask>*.clj, *.cljs, *.cljc, *.ht</mask>
       <mask>*.clj, *.cljs, *.cljc, *.htm</mask>
       <mask>*.clj, *.cljs, *.cljc, *.html</mask>
-      <mask>*.html</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
       <mask>*.ts</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
