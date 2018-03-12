@@ -30,10 +30,10 @@
       <mask>*.clj, *.cljs, *.cljc, *.htm</mask>
       <mask>*.clj, *.cljs, *.cljc, *.html</mask>
       <mask>*.js</mask>
-      <mask>*.ts</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
