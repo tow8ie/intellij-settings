@@ -3,38 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>*\.clj.</mask>
-      <mask>*.clj.</mask>
-      <mask>*.clj</mask>
-      <mask>*.clj,</mask>
-      <mask>*.clj, *</mask>
-      <mask>*.clj, *.</mask>
-      <mask>*.clj, *.c</mask>
-      <mask>*.clj, *.cl</mask>
-      <mask>*.clj, *.clj</mask>
-      <mask>*.clj, *.cljs</mask>
-      <mask>*.clj, *.cljs,</mask>
-      <mask>*.clj, *.cljs,</mask>
-      <mask>*.clj, *.cljs, *</mask>
-      <mask>*.clj, *.cljs, *.</mask>
-      <mask>*.clj, *.cljs, *.cl</mask>
-      <mask>*.clj, *.cljs, *.clj</mask>
-      <mask>*.clj, *.cljs, *.cljc</mask>
-      <mask>*.clj, *.cljs, *.cljc,</mask>
-      <mask>*.clj, *.cljs, *.cljc,</mask>
-      <mask>*.clj, *.cljs, *.cljc, *</mask>
-      <mask>*.clj, *.cljs, *.cljc, *.</mask>
-      <mask>*.clj, *.cljs, *.cljc, *.h</mask>
-      <mask>*.clj, *.cljs, *.cljc, *.ht</mask>
-      <mask>*.clj, *.cljs, *.cljc, *.htm</mask>
-      <mask>*.clj, *.cljs, *.cljc, *.html</mask>
-      <mask>*.js</mask>
-      <mask>*.html</mask>
-      <mask>*.properties</mask>
-      <mask>*.ts</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.mxml" />
   </component>
 </application>
