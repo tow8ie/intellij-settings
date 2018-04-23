@@ -5,18 +5,17 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.ts</mask>
     <mask>*.ts, *.html</mask>
     <mask>*.java</mask>
-    <mask>*.css</mask>
     <mask>*.css, *.scss</mask>
     <mask>*.html</mask>
+    <mask>*.css</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
