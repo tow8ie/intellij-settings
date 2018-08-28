@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Better Paredit Forward">
-      <action id=":cursive.actions.paredit/forward" />
-      <action id=":cursive.actions.paredit/forward" />
-      <action id=":cursive.actions.paredit/backward" />
-    </macro>
-  </component>
-</application>
