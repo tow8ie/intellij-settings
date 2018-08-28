@@ -105,6 +105,7 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="GotoPrevElementUnderCaretUsage" />
   <action id="QuickList.Splits">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
