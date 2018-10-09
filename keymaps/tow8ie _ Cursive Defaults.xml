@@ -95,6 +95,12 @@
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="Compile" />
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="shift meta f9" />
@@ -105,6 +111,7 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
   <action id="QuickList.Splits">
     <keyboard-shortcut first-keystroke="ctrl s" />
