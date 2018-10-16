@@ -1,0 +1,9 @@
+<list display="Clojure REPL" description="Common Clojuer REPL Commands">
+  <action id=":cursive.repl.actions/switch-namespace" />
+  <action id=":cursive.repl.actions/load-file" />
+  <action id=":cursive.repl.actions/sync-files" />
+  <action id=":cursive.repl.actions/run-top-sexp" />
+  <action id=":cursive.repl.actions/run-last-sexp" />
+  <action id=":cursive.repl.actions/jump-to-repl" />
+  <action id=":cursive.repl.actions/jump-to-output" />
+</list>
