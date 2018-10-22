@@ -1,4 +1,4 @@
-<list display="Clojure REPL" description="Common Clojuer REPL Commands">
+<list display="Clojure REPL Quick List" description="Common Clojure REPL Commands">
   <action id=":cursive.repl.actions/switch-namespace" />
   <action id=":cursive.repl.actions/load-file" />
   <action id=":cursive.repl.actions/sync-files" />
