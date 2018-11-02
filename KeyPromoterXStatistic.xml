@@ -57,6 +57,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'pytest for cdcs_test.test_combopromo_cdc'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'pytest for cdcs_test.test_combopromo_cdc'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Execution Point">
         <Item>
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
