@@ -129,6 +129,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Undo">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'⌘Z'</ShortCut>
+          <Description>Undo</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
