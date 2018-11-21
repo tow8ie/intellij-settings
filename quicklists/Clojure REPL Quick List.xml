@@ -6,4 +6,8 @@
   <action id=":cursive.repl.actions/run-last-sexp" />
   <action id=":cursive.repl.actions/jump-to-repl" />
   <action id=":cursive.repl.actions/jump-to-output" />
+  <action id="QuickList.$Separator$" />
+  <action id=":cursive.testing.actions/run-ns-tests" />
+  <action id=":cursive.testing.actions/run-single-test" />
+  <action id=":cursive.testing.actions/rerun-last-test" />
 </list>
