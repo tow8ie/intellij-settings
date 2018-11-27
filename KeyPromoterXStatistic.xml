@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>50</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -55,6 +55,14 @@
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Typing">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'⇧⌘Z' or '⌥⇧⌫'</ShortCut>
+          <Description>Redo Typing</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -119,6 +127,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'pytest for cdcs_test.test_combopromo_cdc'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run tests in current NS in REPL">
+        <Item>
+          <IdeaActionID>:cursive.testing.actions/run-ns-tests</IdeaActionID>
+          <ShortCut>'⌃⇧U'</ShortCut>
+          <Description>Run tests in current NS in REPL</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
