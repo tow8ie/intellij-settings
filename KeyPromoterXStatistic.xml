@@ -81,6 +81,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HelloSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'HelloSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Local REPL'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -126,6 +134,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Start application'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests in test'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Unittests in test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
