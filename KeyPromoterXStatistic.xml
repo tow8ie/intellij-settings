@@ -241,6 +241,14 @@
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Local REPL (against live)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Local REPL (against live)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Local REPL'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
