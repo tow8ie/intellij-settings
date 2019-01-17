@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Load file in REPL">
+        <Item>
+          <IdeaActionID>:cursive.repl.actions/load-file</IdeaActionID>
+          <ShortCut>'⇧⌘L'</ShortCut>
+          <Description>Load file in REPL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Next Page">
         <Item>
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
@@ -150,7 +158,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Local REPL (against live)'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Local REPL'">
