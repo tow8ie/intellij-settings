@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>119</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -102,6 +102,14 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'⇧⌘Z' or '⌥⇧⌫'</ShortCut>
           <Description>Redo Typing</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh Leiningen Projects">
+        <Item>
+          <IdeaActionID>Leiningen.RefreshProjects</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Refresh Leiningen Projects</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
