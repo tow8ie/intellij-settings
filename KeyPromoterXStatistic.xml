@@ -265,6 +265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Shift Up">
+        <Item>
+          <IdeaActionID>TabShiftActions.ShiftUp</IdeaActionID>
+          <ShortCut>'⌃⌥P'</ShortCut>
+          <Description>Shift Up</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Execution Point">
         <Item>
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
