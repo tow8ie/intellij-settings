@@ -65,12 +65,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Go To Hash/Branch/Tag">
+        <Item>
+          <IdeaActionID>Vcs.Log.GoToRef</IdeaActionID>
+          <ShortCut>'⌘F'</ShortCut>
+          <Description>Go To Hash/Branch/Tag</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="GoTo">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>179</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -286,7 +294,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Unittests in test'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest for cdcs_test.test_combopromo_cdc'">
