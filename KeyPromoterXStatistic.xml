@@ -41,6 +41,22 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'user_from_redis_vs_c...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'user_from_redis_vs_c...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'user_from_redis_vs_campaign_endpoint'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'user_from_redis_vs_campaign_endpoint'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -118,7 +134,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>12</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Typing">
@@ -305,6 +321,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'user_from_redis_vs_c...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'user_from_redis_vs_c...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run tests in current NS in REPL">
         <Item>
           <IdeaActionID>:cursive.testing.actions/run-ns-tests</IdeaActionID>
@@ -433,6 +457,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'user_from_redis_vs_campaign_endpoint'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'user_from_redis_vs_campaign_endpoint'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
@@ -462,7 +494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo">
