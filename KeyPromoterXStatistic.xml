@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>196</Count>
+          <Count>211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -246,7 +246,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'REPL (Local)'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'REPL'">
@@ -335,6 +335,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'user_from_redis_vs_c...'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'view-history-test' in REPL">
+        <Item>
+          <IdeaActionID>:cursive.testing.actions/run-single-test</IdeaActionID>
+          <ShortCut>'⌃U'</ShortCut>
+          <Description>Run 'view-history-test' in REPL</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run tests in current NS in REPL">
