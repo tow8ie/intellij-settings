@@ -449,6 +449,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Unittests for test_resolv.TestResolv.test_integration_run_attaches_ingress_rules_from_dns_for_tagged_security_groups'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unittests for test_resolv.TestResolv.test_integration_run_attaches_ingress_rules_from_dns_for_tagged_security_groups'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_logfiles.test_write_success'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
