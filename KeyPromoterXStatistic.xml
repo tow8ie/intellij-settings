@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>244</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -271,6 +271,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Run tests with Leiningen'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'S3AdapterTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'S3AdapterTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Start application (against live)'">
