@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>316</Count>
+          <Count>319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
