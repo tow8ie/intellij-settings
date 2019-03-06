@@ -537,6 +537,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'pytest for test_data_preparation.test_read_product_dict_with_real_data'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'pytest for test_data_preparation.test_read_product_dict_with_real_data'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'pytest for test_logfiles.test_write_success'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
