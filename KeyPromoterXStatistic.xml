@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>423</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
