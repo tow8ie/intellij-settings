@@ -249,6 +249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ChagallTest.Feature: readDsaData Scenar… returns a DF with destructured DSA data'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ChagallTest.Feature: readDsaData Scenar… returns a DF with destructured DSA data'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Compile CSS'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -454,6 +462,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Autocompile Sass to CSS with Leiningen'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ChagallTest.Feature: readDsaData Scenario: returns a DF with destructured DSA data'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ChagallTest.Feature: readDsaData Scenario: returns a DF with destructured DSA data'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
