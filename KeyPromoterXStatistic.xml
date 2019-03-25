@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>451</Count>
+          <Count>452</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -295,6 +295,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ChagallTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ChagallTest.Feature: exploration Scenario: understanding'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ChagallTest.Feature: exploration Scenario: understanding'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ChagallTest.Feature: exploring Scenario: understanding'">
@@ -470,6 +478,14 @@
           <IdeaActionID>:cursive.testing.actions/run-ns-tests</IdeaActionID>
           <ShortCut>'⌃⇧U'</ShortCut>
           <Description>Run tests in current NS in REPL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'⇧⌘N'</ShortCut>
+          <Description>Scratch File</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
