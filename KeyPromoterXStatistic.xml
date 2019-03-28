@@ -721,6 +721,14 @@
           <Count>116</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Toggle italic mode">
+        <Item>
+          <IdeaActionID>MarkdownNavigator.ToggleItalic</IdeaActionID>
+          <ShortCut>'⌃I'</ShortCut>
+          <Description>Toggle italic mode</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Undo">
         <Item>
           <IdeaActionID>$Undo</IdeaActionID>
