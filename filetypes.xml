@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="boot" type="Clojure" />
+      <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
