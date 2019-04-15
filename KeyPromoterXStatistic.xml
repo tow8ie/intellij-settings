@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BenderTest.Feature: end-to-end-test Scenario: feature says it all'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'BenderTest.Feature: end-to-end-test Scenario: feature says it all'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Local REPL'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -321,6 +329,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BenderTest.Feature: end-to-end-test Scenario: feature says it all'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BenderTest.Feature: end-to-end-test Scenario: feature says it all'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ChagallTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -566,7 +582,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Autocompile Sass to CSS with Leiningen'">
@@ -575,6 +591,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Autocompile Sass to CSS with Leiningen'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'BenderTest.Feature: end-to-end-test Scenario: feature says it all'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BenderTest.Feature: end-to-end-test Scenario: feature says it all'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ChagallTest.Feature: exploring Scenario: understanding'">
@@ -734,7 +758,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Test">
@@ -750,7 +774,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>120</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle bold mode">
