@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>513</Count>
+          <Count>517</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -383,6 +383,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'HelloSpec'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JaccardTest.Feature: jaccardNew Scenario: ...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'JaccardTest.Feature: jaccardNew Scenario: ...'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Local REPL (against live)'">
