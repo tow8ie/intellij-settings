@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="boot" type="Clojure" />
+      <mapping pattern="_LOGBUCH" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping ext="jsonseq" type="PLAIN_TEXT" />
     </extensionMap>
