@@ -681,6 +681,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'REPL (Local against developer@live)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'REPL (Local against developer@live)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'REPL (Local)'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
