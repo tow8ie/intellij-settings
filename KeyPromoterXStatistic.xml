@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>556</Count>
+          <Count>557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -286,7 +286,7 @@
           <IdeaActionID>Leiningen.RefreshProjects</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Refresh Leiningen Projects</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -478,7 +478,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'REPL'</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Remote REPL'">
