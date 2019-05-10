@@ -27,4 +27,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.bin" />
     </exec>
   </tool>
+  <tool name="swamp: admin@nonlive" description="Gets credentials for admin user on nonlive environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.bin/tesla-get-aws-credentials.sh" />
+      <option name="PARAMETERS" value="nonlive admin" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/.bin" />
+    </exec>
+  </tool>
 </toolSet>
