@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>613</Count>
+          <Count>615</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -310,7 +310,7 @@
           <IdeaActionID>Leiningen.RefreshProjects</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Refresh Leiningen Projects</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
