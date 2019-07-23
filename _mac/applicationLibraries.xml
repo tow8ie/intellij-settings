@@ -27,6 +27,33 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Pipenv (nav_cognito) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_cognito-YspYeDza/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_cognito-YspYeDza/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_cognito-YspYeDza/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1704104961" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_cognito-YspYeDza/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_cognito-YspYeDza/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_cognito-YspYeDza/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1704104961" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (boateng) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/miniconda3/envs/boateng/lib/python3.6" />
