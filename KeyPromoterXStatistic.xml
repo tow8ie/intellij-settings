@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>822</Count>
+          <Count>823</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
