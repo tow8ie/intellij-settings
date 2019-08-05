@@ -1,41 +1,12 @@
 <application>
   <component name="libraryTable">
-    <library name="Pipenv (backup-scripts) interpreter library">
+    <library name="Python 3.6 (tyson) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/backup-scripts-oDq7adF4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/backup-scripts-oDq7adF4/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/backup-scripts-oDq7adF4/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/code/projects/backup-scripts/src" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-1905202474" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/backup-scripts-oDq7adF4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/backup-scripts-oDq7adF4/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/backup-scripts-oDq7adF4/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/code/projects/backup-scripts/src" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.2/python_stubs/-1905202474" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Pipenv (nav_chekov) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_chekov-9hqKaaLM/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_chekov-9hqKaaLM/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.virtualenvs/tyson/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/tyson/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_chekov-9hqKaaLM/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1377772805" />
+        <root url="file://$USER_HOME$/.virtualenvs/tyson/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-432607613" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -44,122 +15,12 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_chekov-9hqKaaLM/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_chekov-9hqKaaLM/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.virtualenvs/tyson/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/tyson/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_chekov-9hqKaaLM/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1377772805" />
+        <root url="file://$USER_HOME$/.virtualenvs/tyson/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-432607613" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Pipenv (nav_grimm) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_grimm-dRWR_ln-/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_grimm-dRWR_ln-/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_grimm-dRWR_ln-/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-262225438" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_grimm-dRWR_ln-/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_grimm-dRWR_ln-/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_grimm-dRWR_ln-/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-262225438" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Pipenv (nav_sulu) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_sulu-UtKjtRpp/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_sulu-UtKjtRpp/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_sulu-UtKjtRpp/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1895741762" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_sulu-UtKjtRpp/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_sulu-UtKjtRpp/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/nav_sulu-UtKjtRpp/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1895741762" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (grimm) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/grimm/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/grimm/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/grimm/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1164783570" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/grimm/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/grimm/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.8/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/grimm/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/1164783570" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (lustig) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/envs/lustig/lib/python3.6" />
-        <root url="file://$USER_HOME$/miniconda3/envs/lustig/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/miniconda3/envs/lustig/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1640837833" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/envs/lustig/lib/python3.6" />
-        <root url="file://$USER_HOME$/miniconda3/envs/lustig/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/miniconda3/envs/lustig/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.2/python_stubs/-1640837833" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
