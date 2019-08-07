@@ -1,5 +1,32 @@
 <application>
   <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="Aptana by Alexmeia" value="Mac Classic" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Darcula (tow8ie)" value="Mac Classic" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Default Light" value="Mac Classic" />
+        <entry key="Github" value="GitHub" />
+        <entry key="Google Light" value="Mac Classic" />
+        <entry key="Gradianto Dark Fuchsia" value="Mac Classic" />
+        <entry key="Gradianto Deep Ocean" value="Mac Classic" />
+        <entry key="Gradianto Midnight Blue" value="Mac Classic" />
+        <entry key="Green Screen" value="Mac Classic" />
+        <entry key="Harmonic16 Dark" value="Mac Classic" />
+        <entry key="Harmonic16 Light" value="Mac Classic" />
+        <entry key="Harmonic16 Light (Manual)" value="Mac Classic" />
+        <entry key="High сontrast" value="Mac Classic" />
+        <entry key="Mexico Light" value="Mac Classic" />
+        <entry key="Nord" value="Mac Classic" />
+        <entry key="Nord (tow8ie)" value="Mac Classic" />
+        <entry key="Summerfruit Light" value="Mac Classic" />
+        <entry key="Tomorrow" value="Mac Classic" />
+        <entry key="light_theme" value="Mac Classic" />
+        <entry key="tow8ie" value="Mac Classic" />
+        <entry key="tow8ie-test" value="Mac Classic" />
+      </map>
+    </option>
     <option name="bundles">
       <list>
         <BundleConfigBean>

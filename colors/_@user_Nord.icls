@@ -4,7 +4,7 @@
     <property name="created">2019-08-07T23:38:10</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-07T23:47:14</property>
+    <property name="modified">2019-08-07T23:57:49</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -48,7 +48,7 @@
     <option name="INDENT_GUIDE" value="4c566a" />
     <option name="INFORMATION_HINT" value="434c5e" />
     <option name="LINE_NUMBERS_COLOR" value="4c566a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="d8dee9" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="ebcb8b" />
     <option name="NOTIFICATION_BACKGROUND" value="4c566a" />
     <option name="QUESTION_HINT" value="434c5e" />
