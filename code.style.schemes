@@ -1,0 +1,16 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <ClojureCodeStyleSettings>{
+  :clojure.spec.alpha/fdef 2
+  :cursive.formatting/align-binding-forms true
+}</ClojureCodeStyleSettings>
+        <MarkdownNavigatorCodeStyleSettings>
+          <option name="RIGHT_MARGIN" value="72" />
+        </MarkdownNavigatorCodeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
