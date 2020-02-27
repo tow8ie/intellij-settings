@@ -139,9 +139,14 @@
   <action id="QuickList.Splits">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ReformatCode" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
