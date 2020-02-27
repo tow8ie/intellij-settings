@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <ClojureCodeStyleSettings>{
+  :clojure-aws-test.core/promo-combopromo-cdc :only-indent
+  :de.otto.nav.macron.lang/until-&gt;&gt; :only-indent
+}</ClojureCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
