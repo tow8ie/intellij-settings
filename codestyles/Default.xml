@@ -2,6 +2,7 @@
   <ClojureCodeStyleSettings>{
   :clojure.spec.alpha/fdef 2
   :cursive.formatting/align-binding-forms true
+  :de.otto.nav.candyshop.pages.edit/defroute 2
 }</ClojureCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
