@@ -1,8 +1,10 @@
 <code_scheme name="Default" version="173">
   <ClojureCodeStyleSettings>{
   :clojure-aws-test.core/promo-combopromo-cdc :only-indent
+  :de.otto.nav.chekov.development/template 2
   :de.otto.nav.macron.lang/until-&gt;&gt; :only-indent
   :net.cgrand.enlive-html/deftemplate 2
+  :net.cgrand.enlive-html/template 2
 }</ClojureCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
