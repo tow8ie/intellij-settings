@@ -1,0 +1,8 @@
+<templateSet group="Clojure">
+  <template name="showgraph" value="(ugraph/viz-graph $graph$ {:auto-label true})" description="Visualizes an ubergraph" toReformat="false" toShortenFQNames="true">
+    <variable name="graph" expression="complete()" defaultValue="graph" alwaysStopAt="true" />
+    <context>
+      <option name="Clojure" value="true" />
+    </context>
+  </template>
+</templateSet>
