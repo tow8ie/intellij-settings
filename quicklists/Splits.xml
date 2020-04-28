@@ -1,13 +1,13 @@
 <list display="Splits" description="Actions for working with window splits">
+  <action id="TabShiftActions.ShiftRight" />
   <action id="TabShiftActions.ShiftLeft" />
   <action id="TabShiftActions.ShiftUp" />
-  <action id="TabShiftActions.ShiftRight" />
   <action id="TabShiftActions.ShiftDown" />
   <action id="QuickList.$Separator$" />
+  <action id="SplitVertically" />
   <action id="SplitHorizontally" />
   <action id="MoveTabRight" />
-  <action id="UnsplitAll" />
   <action id="CloseAllEditors" />
   <action id="Unsplit" />
-  <action id="SplitVertically" />
+  <action id="UnsplitAll" />
 </list>
