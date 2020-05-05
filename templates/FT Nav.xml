@@ -1,0 +1,10 @@
+<templateSet group="FT Nav">
+  <template name="send command" value="./curl.py \&#10;  --location \&#10;  --request POST 'https://guevara.$env$.nav.cloud.otto.de/command/sync/' \&#10;  --header 'Content-Type: $type$' \&#10;  --data-raw '{&quot;data&quot;: $data$}'" description="Shell command to send a command to Guevara" toReformat="false" toShortenFQNames="true">
+    <variable name="env" expression="&quot;develop&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="&quot;way/add+json&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="&quot;{}&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
