@@ -137,7 +137,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="QuickList.Splits">
-    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl w" />
   </action>
   <action id="ReformatCode" />
   <action id="Scala.ShowImplicits">
