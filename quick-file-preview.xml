@@ -1,6 +1,7 @@
 <application>
   <component name="PreviewSettings">
     <option name="CLOSE_PREVIEW_ON_TAB_CHANGE" value="true" />
+    <option name="PROJECT_VIEW_TOGGLE_ONE_CLICK" value="false" />
     <option name="PREVIEW_TAB_COLOR" value="-16731727" />
   </component>
 </application>
