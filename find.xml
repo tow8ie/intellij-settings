@@ -17,5 +17,6 @@
     <mask>*.cljs</mask>
     <mask>*.clj</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
