@@ -10,7 +10,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.tree.collapse.recursively" value="false" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
