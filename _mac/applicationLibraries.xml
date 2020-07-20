@@ -1,32 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="Pipenv (cognito) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-994501416" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-994501416" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Pipenv (couteau) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.local/share/virtualenvs/couteau-RqD9OuYl/lib/python3.7" />
@@ -435,6 +408,31 @@
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
         <root url="file://$USER_HOME$/.local/share/virtualenvs/bouncer-RFEyfqZk/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/847033947" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6 (cognito-g_IUFjp6) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-994501416" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/cognito-g_IUFjp6/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-994501416" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
