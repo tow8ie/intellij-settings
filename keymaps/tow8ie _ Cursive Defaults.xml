@@ -13,15 +13,9 @@
     <keyboard-shortcut first-keystroke="shift meta j" />
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
-  <action id=":cursive.actions.paredit/close-curly-and-newline">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-  </action>
-  <action id=":cursive.actions.paredit/close-paren-and-newline">
-    <keyboard-shortcut first-keystroke="shift meta 0" />
-  </action>
-  <action id=":cursive.actions.paredit/close-square-and-newline">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-  </action>
+  <action id=":cursive.actions.paredit/close-curly-and-newline" />
+  <action id=":cursive.actions.paredit/close-paren-and-newline" />
+  <action id=":cursive.actions.paredit/close-square-and-newline" />
   <action id=":cursive.actions.paredit/copy-as-kill">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -69,18 +63,10 @@
   <action id=":cursive.actions.paredit/unthread-form">
     <keyboard-shortcut first-keystroke="meta alt period" />
   </action>
-  <action id=":cursive.actions.paredit/wrap-curly">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
-  <action id=":cursive.actions.paredit/wrap-paren">
-    <keyboard-shortcut first-keystroke="shift meta 9" />
-  </action>
-  <action id=":cursive.actions.paredit/wrap-quotes">
-    <keyboard-shortcut first-keystroke="shift meta quote" />
-  </action>
-  <action id=":cursive.actions.paredit/wrap-square">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-  </action>
+  <action id=":cursive.actions.paredit/wrap-curly" />
+  <action id=":cursive.actions.paredit/wrap-paren" />
+  <action id=":cursive.actions.paredit/wrap-quotes" />
+  <action id=":cursive.actions.paredit/wrap-square" />
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
