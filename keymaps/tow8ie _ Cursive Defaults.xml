@@ -112,6 +112,12 @@
   <action id="Leiningen.RefreshProjects">
     <keyboard-shortcut first-keystroke="shift f5" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="shift meta minus" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="shift meta back_slash" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl alt period" />
@@ -133,6 +139,12 @@
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift meta alt l" />
     <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="minus" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="shift back_slash" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
