@@ -46,10 +46,12 @@
   <action id=":cursive.actions.paredit/slurp-backwards">
     <keyboard-shortcut first-keystroke="ctrl meta j" />
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
+    <keyboard-shortcut first-keystroke="shift ctrl left_parenthesis" />
   </action>
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="shift meta k" />
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
+    <keyboard-shortcut first-keystroke="shift ctrl right_parenthesis" />
   </action>
   <action id=":cursive.actions.paredit/splice">
     <keyboard-shortcut first-keystroke="alt s" />
