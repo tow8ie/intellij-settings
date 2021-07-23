@@ -14,9 +14,10 @@
           <option name="id" value="samCli" />
         </ExecutableState>
         <ExecutableState>
-          <option name="executablePath" value="/usr/local/bin/aws" />
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="$USER_HOME$/.pyenv/shims/aws" />
           <option name="id" value="awsCli" />
-          <option name="lastKnownFileTime" value="1626384511000" />
+          <option name="lastKnownFileTime" value="1626968030413" />
         </ExecutableState>
       </list>
     </option>
