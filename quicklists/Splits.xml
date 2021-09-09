@@ -7,7 +7,8 @@
   <action id="SplitVertically" />
   <action id="SplitHorizontally" />
   <action id="MoveTabRight" />
-  <action id="CloseAllEditors" />
+  <action id="TabShiftActions.ToggleMaximizeRestore" />
   <action id="Unsplit" />
   <action id="UnsplitAll" />
+  <action id="CloseAllEditors" />
 </list>
