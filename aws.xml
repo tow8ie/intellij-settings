@@ -15,9 +15,9 @@
         </ExecutableState>
         <ExecutableState>
           <option name="autoResolved" value="true" />
-          <option name="executablePath" value="$USER_HOME$/.pyenv/shims/aws" />
+          <option name="executablePath" value="$USER_HOME$/.local/bin/aws" />
           <option name="id" value="awsCli" />
-          <option name="lastKnownFileTime" value="1626968030413" />
+          <option name="lastKnownFileTime" value="1632997564627" />
         </ExecutableState>
       </list>
     </option>
