@@ -96,6 +96,12 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="Clj.Stuff.EvaluatePrevForm">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="Clj.Stuff.EvaluateTopForm">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
