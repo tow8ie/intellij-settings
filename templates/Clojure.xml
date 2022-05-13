@@ -5,8 +5,7 @@
       <option name="Clojure" value="true" />
     </context>
   </template>
-  <template name="wat" value="(is (= :what?&#10;       $expr$))" shortcut="ENTER" description="Skeleton for a test assertion that checks for :what?" toReformat="false" toShortenFQNames="true">
-    <variable name="expr" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="wat" value="(is (= :what?&#10;       $END$))" shortcut="ENTER" description="Skeleton for a test assertion that checks for :what?" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Clojure" value="true" />
     </context>
