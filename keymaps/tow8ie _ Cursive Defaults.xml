@@ -1,4 +1,7 @@
 <keymap version="1" name="tow8ie + Cursive Defaults" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id=":cursive.actions.paredit/backward">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
@@ -108,6 +111,9 @@
   <action id="Compile" />
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="shift meta f9" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
