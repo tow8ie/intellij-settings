@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Non-Legacy files" />
-    <option name="defaultScopeName" value="Non-Legacy files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Non-Legacy files" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.edn</mask>
     <mask>*.tf</mask>
     <mask>*.cljs</mask>
