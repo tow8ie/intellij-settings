@@ -1,44 +1,51 @@
 <toolSet name="External Tools">
-  <tool name="swamp: developer@nonlive" description="Gets credentials for developer user on nonlive environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="swamp: developer@nonlive" description="Gets credentials for developer user on nonlive environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.bin/tesla-get-aws-credentials.sh" />
       <option name="PARAMETERS" value="nonlive developer" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.bin" />
     </exec>
   </tool>
-  <tool name="swamp: developer@live" description="Gets credentials for developer user on live environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="swamp: developer@live" description="Gets credentials for developer user on live environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.bin/tesla-get-aws-credentials.sh" />
       <option name="PARAMETERS" value="live developer" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.bin" />
     </exec>
   </tool>
-  <tool name="swamp: admin@infrastructure" description="Gets credentials for admin user on infrastructure environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="swamp: admin@infrastructure" description="Gets credentials for admin user on infrastructure environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.bin/tesla-get-aws-credentials.sh" />
       <option name="PARAMETERS" value="infrastructure admin" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.bin" />
     </exec>
   </tool>
-  <tool name="swamp: admin@live" description="Gets credentials for admin user on live environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="swamp: admin@live" description="Gets credentials for admin user on live environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.bin/tesla-get-aws-credentials.sh" />
       <option name="PARAMETERS" value="live admin" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.bin" />
     </exec>
   </tool>
-  <tool name="swamp: admin@nonlive" description="Gets credentials for admin user on nonlive environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="swamp: admin@nonlive" description="Gets credentials for admin user on nonlive environment and saves it in a profile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.bin/tesla-get-aws-credentials.sh" />
       <option name="PARAMETERS" value="nonlive admin" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/.bin" />
     </exec>
   </tool>
-  <tool name="Marked 2" description="Open File in Marked 2" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Marked 2" description="Open File in Marked 2" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Applications/Marked 2.app/Contents/MacOS/Marked 2" />
       <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" value="/Applications/Marked 2.app/Contents/MacOS" />
+    </exec>
+  </tool>
+  <tool name="bbb swamp: developer@infrastructure" description="Swamp as developer into infrastructure account" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bbb" />
+      <option name="PARAMETERS" value="swamp -a infrastructure -r developer" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>

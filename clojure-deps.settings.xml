@@ -3,14 +3,14 @@
     <option name="clojureCommandPath" value="/usr/local/bin/clojure" />
     <option name="configFiles">
       <list>
-        <option value="/usr/local/Cellar/clojure/1.11.1.1113/deps.edn" />
+        <option value="/usr/local/Cellar/clojure/1.11.1.1200/deps.edn" />
         <option value="$USER_HOME$/.clojure/deps.edn" />
       </list>
     </option>
     <option name="configPath" value="$USER_HOME$/.clojure" />
-    <option name="executableHash" value="-738911211" />
-    <option name="installPath" value="/usr/local/Cellar/clojure/1.11.1.1113" />
-    <option name="uberjarPath" value="/usr/local/Cellar/clojure/1.11.1.1113/libexec/clojure-tools-1.11.1.1113.jar" />
-    <option name="version" value="1.11.1.1113" />
+    <option name="executableHash" value="263248190" />
+    <option name="installPath" value="/usr/local/Cellar/clojure/1.11.1.1200" />
+    <option name="uberjarPath" value="/usr/local/Cellar/clojure/1.11.1.1200/libexec/clojure-tools-1.11.1.1200.jar" />
+    <option name="version" value="1.11.1.1200" />
   </component>
 </application>
