@@ -1,6 +1,6 @@
 <application>
   <component name="DepsSettings">
-    <option name="clojureCommandPath" value="/usr/local/bin/clojure" />
+    <option name="clojureCommandPath" value="" />
     <option name="configFiles">
       <list>
         <option value="/usr/local/Cellar/clojure/1.11.1.1200/deps.edn" />
