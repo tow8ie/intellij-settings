@@ -1,16 +1,16 @@
 <application>
   <component name="DepsSettings">
-    <option name="clojureCommandPath" value="" />
+    <option name="clojureCommandPath" value="/opt/homebrew/bin/clojure" />
     <option name="configFiles">
       <list>
-        <option value="/usr/local/Cellar/clojure/1.11.1.1200/deps.edn" />
+        <option value="/opt/homebrew/Cellar/clojure/1.11.1.1208/deps.edn" />
         <option value="$USER_HOME$/.clojure/deps.edn" />
       </list>
     </option>
     <option name="configPath" value="$USER_HOME$/.clojure" />
-    <option name="executableHash" value="263248190" />
-    <option name="installPath" value="/usr/local/Cellar/clojure/1.11.1.1200" />
-    <option name="uberjarPath" value="/usr/local/Cellar/clojure/1.11.1.1200/libexec/clojure-tools-1.11.1.1200.jar" />
-    <option name="version" value="1.11.1.1200" />
+    <option name="executableHash" value="-1679255171" />
+    <option name="installPath" value="/opt/homebrew/Cellar/clojure/1.11.1.1208" />
+    <option name="uberjarPath" value="/opt/homebrew/Cellar/clojure/1.11.1.1208/libexec/clojure-tools-1.11.1.1208.jar" />
+    <option name="version" value="1.11.1.1208" />
   </component>
 </application>
