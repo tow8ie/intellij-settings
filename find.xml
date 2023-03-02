@@ -15,8 +15,8 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
-    <mask>*scss</mask>
     <mask>*.clj</mask>
     <mask>*.scss</mask>
+    <mask>*scss</mask>
   </component>
 </application>
