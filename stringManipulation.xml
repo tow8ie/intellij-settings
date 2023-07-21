@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.EscapeJsonAction" />
-        <option name="description" value="org.apache.commons.text.StringEscapeUtils#escapeJson" />
-        <option name="textWithMnemonic" value="Escape JSON" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLDecodeAction" />
+        <option name="description" value="Decode URL (by java.net.URLDecoder)" />
+        <option name="textWithMnemonic" value="Decode URL" />
       </UniversalActionModel>
     </option>
   </component>
