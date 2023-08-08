@@ -4,7 +4,7 @@
     <property name="created">2023-04-27T11:21:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-08-08T09:57:17</property>
+    <property name="modified">2023-08-08T12:30:35</property>
     <property name="originalScheme">_@user_Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -647,18 +647,18 @@
         <option name="BACKGROUND" value="27292b" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACKETS" baseAttributes="" />
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="b2ae60" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="6f7587" />
