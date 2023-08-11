@@ -20,6 +20,13 @@
     <option name="telemetryEnabled" value="false" />
     <option name="useDefaultCredentialRegion" value="Prompt" />
   </component>
+  <component name="codewhispererSettings">
+    <option name="value">
+      <map>
+        <entry key="IsIncludeCodeWithReference" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="codewhispererUserGroupSettings">
     <option name="settings">
       <map>
