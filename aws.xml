@@ -14,10 +14,10 @@
   <component name="codewhispererUserGroupSettings">
     <option name="settings">
       <map>
-        <entry key="userGroup" value="CrossFile" />
+        <entry key="userGroup" value="Classifier" />
       </map>
     </option>
-    <option name="version" value="1.81-232" />
+    <option name="version" value="1.82-232" />
   </component>
   <component name="executables">
     <option name="value">
