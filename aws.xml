@@ -37,4 +37,7 @@
       </list>
     </option>
   </component>
+  <component name="gettingStarted">
+    <option name="shouldDisplayPage" value="false" />
+  </component>
 </application>
