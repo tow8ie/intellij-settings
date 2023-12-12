@@ -4,7 +4,7 @@
     <property name="created">2023-04-27T11:21:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-12-11T13:51:47</property>
+    <property name="modified">2023-12-12T12:02:52</property>
     <property name="originalScheme">_@user_Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -248,7 +248,7 @@
         <option name="FOREGROUND" value="bcbec4" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="56a8f5" />
