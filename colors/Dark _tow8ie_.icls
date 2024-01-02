@@ -4,7 +4,7 @@
     <property name="created">2023-04-27T11:21:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-12-12T12:04:12</property>
+    <property name="modified">2024-01-02T11:56:29</property>
     <property name="originalScheme">_@user_Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -61,7 +61,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="f75464" />
@@ -176,8 +176,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
         <option name="FOREGROUND" value="849fbf" />
@@ -541,7 +541,7 @@
         <option name="BACKGROUND" value="1a3b2d" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="375239" />
@@ -647,18 +647,18 @@
         <option name="BACKGROUND" value="27292b" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACKETS" baseAttributes="" />
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="b2ae60" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="6f7587" />
