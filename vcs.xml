@@ -8,6 +8,7 @@
         <option value="Default.Hash" />
         <option value="Space.CommitStatus" />
         <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
@@ -18,6 +19,5 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
