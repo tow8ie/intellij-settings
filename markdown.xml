@@ -6,4 +6,7 @@
       <entry key="PlantUMLLanguageExtension" value="false" />
     </enabledExtensions>
   </component>
+  <component name="MarkdownSettings">
+    <option name="fontSize" value="18" />
+  </component>
 </application>
