@@ -1,11 +1,4 @@
 <application>
-  <component name="authManager">
-    <option name="lastLoginIdcInfo">
-      <LastLoginIdcInfo>
-        <option name="region" value="eu-central-1" />
-      </LastLoginIdcInfo>
-    </option>
-  </component>
   <component name="aws">
     <option name="QMigrationNotificationShownOnce" value="true" />
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />

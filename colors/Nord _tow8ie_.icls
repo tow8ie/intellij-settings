@@ -1162,7 +1162,7 @@
         <option name="FOREGROUND" value="5e81ac" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="" />
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="a3be8c" />
