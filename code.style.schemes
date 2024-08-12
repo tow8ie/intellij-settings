@@ -2,10 +2,14 @@
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value version="173">
-        <ClojureCodeStyleSettings>{
-  :clojure.spec.alpha/fdef 2
-  :cursive.formatting/align-binding-forms true
-}</ClojureCodeStyleSettings>
+        <ClojureCodeStyleSettings>
+          <option name="alignBindingForms" value="true" />
+          <option name="indentCustomisations">
+            <map>
+              <entry key="clojure.spec.alpha/fdef" value="2" />
+            </map>
+          </option>
+        </ClojureCodeStyleSettings>
         <MarkdownNavigatorCodeStyleSettings>
           <option name="RIGHT_MARGIN" value="72" />
         </MarkdownNavigatorCodeStyleSettings>
