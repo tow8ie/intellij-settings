@@ -42,4 +42,7 @@
   <component name="gettingStarted">
     <option name="shouldDisplayPage" value="false" />
   </component>
+  <component name="notificationEtag">
+    <option name="etag" value="&quot;5bdb28c6f8572180bd1bd2a343fe05d8&quot;" />
+  </component>
 </application>
