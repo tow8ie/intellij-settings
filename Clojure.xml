@@ -1,6 +1,7 @@
 <application>
   <component name="ClojureIdeSettings">
     <option name="structuralStyle" value="2" />
+    <option name="maxInlineEvalResults" value="1" />
     <option name="openReplToolWindowAtStart" value="true" />
   </component>
 </application>
