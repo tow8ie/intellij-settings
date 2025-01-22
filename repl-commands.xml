@@ -1,0 +1,5 @@
+<application>
+  <component name="ReplCommandManager">
+    <repl-command name="Replace with evaluation" executionType="SELECTED_FORM" selectedForm="BEFORE_CARET" commandText="" echo="NONE" addToHistory="false" executeBefore="LOAD_CURRENT" executeAfter="NONE" executionNs="CURRENT_FILE" inNamespace="" saveAll="true" clearRepl="false" printOutput="true" replaceForm="true" copyResult="false" insertIntoEditor="false" showResultInline="true" />
+  </component>
+</application>

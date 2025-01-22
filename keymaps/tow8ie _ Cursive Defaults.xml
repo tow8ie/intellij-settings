@@ -112,6 +112,9 @@
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="shift meta f9" />
   </action>
+  <action id="Cursive.Repl.Command.Replace with evaluation">
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
