@@ -6,17 +6,17 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="efefe0" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="fefefe" />
-    <option name="GUTTER_BACKGROUND" value="fefefe" />
-    <option name="INDENT_GUIDE" value="ccc" />
-    <option name="LINE_NUMBERS_COLOR" value="aaa" />
-    <option name="METHOD_SEPARATORS_COLOR" value="efefe0" />
-    <option name="SELECTED_INDENT_GUIDE" value="0" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ccc" />
-    <option name="SELECTION_BACKGROUND" value="ccc" />
-    <option name="SELECTION_FOREGROUND" value="0" />
-    <option name="TEARLINE_COLOR" value="efefe0" />
+    <option name="CARET_ROW_COLOR" value="EFEFE0" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="FEFEFE" />
+    <option name="GUTTER_BACKGROUND" value="FEFEFE" />
+    <option name="INDENT_GUIDE" value="000CCC" />
+    <option name="LINE_NUMBERS_COLOR" value="000AAA" />
+    <option name="METHOD_SEPARATORS_COLOR" value="EFEFE0" />
+    <option name="SELECTED_INDENT_GUIDE" value="000000" />
+    <option name="SELECTED_TEARLINE_COLOR" value="000CCC" />
+    <option name="SELECTION_BACKGROUND" value="000CCC" />
+    <option name="SELECTION_FOREGROUND" value="000000" />
+    <option name="TEARLINE_COLOR" value="EFEFE0" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
