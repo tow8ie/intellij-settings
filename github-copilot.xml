@@ -6,5 +6,8 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
+    <option name="showIdeCompletions" value="true" />
+    <option name="chatNaturalLanguage" value="Englisch" />
+    <option name="selectedCompletionModel" value="gpt-4o-copilot" />
   </component>
 </application>
