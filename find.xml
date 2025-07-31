@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.edn</mask>
     <mask>*.cljs</mask>
     <mask>*.css</mask>
@@ -17,8 +18,8 @@
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*scss</mask>
-    <mask>*.js</mask>
     <mask>*.clj</mask>
     <mask>*.tf</mask>
+    <mask>*.js</mask>
   </component>
 </application>
