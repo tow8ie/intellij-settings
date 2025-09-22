@@ -16,11 +16,11 @@
         </library>
       </artifact>
     </driver>
-    <driver id="oracle">
-      <option name="auto-sync" value="false" />
-    </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.7.3" />
+    </driver>
+    <driver id="oracle">
+      <option name="auto-sync" value="false" />
     </driver>
   </component>
 </application>
