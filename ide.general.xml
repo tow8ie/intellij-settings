@@ -11,7 +11,6 @@
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="eslint.additional.file.extensions" value="svelte" source="SYSTEM" />
     <entry key="jvm.dfa.analysis.ui.security.analysis.window.was.shown" value="true" source="SYSTEM" />
-    <entry key="idea.islands.feedback2.enabled" value="false" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
