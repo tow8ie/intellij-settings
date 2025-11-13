@@ -10,5 +10,6 @@
     <option name="showIdeCompletions" value="true" />
     <option name="chatNaturalLanguage" value="Englisch" />
     <option name="selectedCompletionModel" value="gpt-4o-copilot" />
+    <option name="terminalRulesVersion" value="1" />
   </component>
 </application>
