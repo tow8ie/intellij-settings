@@ -3,5 +3,17 @@
     <option name="structuralStyle" value="2" />
     <option name="maxInlineEvalResults" value="1" />
     <option name="openReplToolWindowAtStart" value="true" />
+    <option name="ignoreFiles">
+      <list>
+        <option value="*-init.clj" />
+        <option value=".lein-*" />
+        <option value=".nrepl-*" />
+        <option value=".prepl-port" />
+        <option value=".rebel_readline_history" />
+        <option value=".socket-repl-port" />
+        <option value="figwheel_server.log" />
+        <option value="profiles.clj" />
+      </list>
+    </option>
   </component>
 </application>
