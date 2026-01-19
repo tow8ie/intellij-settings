@@ -1,10 +1,24 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping pattern=".springBeans" type="Eclipse" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern=".ws-context" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
+      <mapping pattern=".devcontainer.json" type="JSON5" />
+      <mapping pattern="devcontainer.json" type="JSON5" />
       <mapping pattern="mcp.json" type="JSON5" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="spring.handlers" type="Properties" />
+      <mapping pattern="spring.schemas" type="Properties" />
+      <mapping ext="wadl" type="XML" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
