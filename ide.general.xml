@@ -12,6 +12,11 @@
     <entry key="eslint.additional.file.extensions" value="svelte" source="SYSTEM" />
     <entry key="jvm.dfa.analysis.ui.security.analysis.window.was.shown" value="true" source="SYSTEM" />
     <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
+    <entry key="jetbrains.security.package-checker.enablePipEnvTransitiveDependencies" value="false" source="MANAGER" />
+    <entry key="jetbrains.security.package-checker.enablePoetryTransitiveDependencies" value="false" source="MANAGER" />
+    <entry key="jetbrains.security.package-checker.enableUvTransitiveDependencies" value="false" source="MANAGER" />
+    <entry key="jetbrains.security.package-checker.enableVenvTransitiveDependencies" value="false" source="MANAGER" />
+    <entry key="jetbrains.security.package-checker.depthLimitOfTransitiveDependencies" value="3" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
