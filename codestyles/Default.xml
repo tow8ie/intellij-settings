@@ -4,6 +4,7 @@
     <option name="indentCustomisations">
       <map>
         <entry key="clojure-aws-test.core/promo-combopromo-cdc" value="-1" />
+        <entry key="com.brunobonacci.mulog/trace" value="-1" />
         <entry key="de.otto.nav.chekov.development/template" value="2" />
         <entry key="de.otto.nav.macron.lang/until-&gt;&gt;" value="-1" />
         <entry key="etaoin.api/with-postmortem" value="-1" />
