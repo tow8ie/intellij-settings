@@ -814,5 +814,39 @@
         </sourcePath>
       </roots>
     </jdk>
+    <jdk version="2">
+      <name value="uv (persistor)" />
+      <type value="Python SDK" />
+      <version value="Python 3.12.11" />
+      <homePath value="$USER_HOME$/code/nav/nav_lambdas/projects/persistor/.venv/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/code/nav/nav_lambdas/projects/persistor/.venv/lib/python3.12/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.3/python_stubs/716020522" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jmespath" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="5192e28c-e7b7-4db4-b1c8-27ff4a8413c5" IS_UV="true" UV_WORKING_DIR="$USER_HOME$/code/nav/nav_lambdas/projects/persistor">
+        <setting name="FLAVOR_ID" value="UvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>

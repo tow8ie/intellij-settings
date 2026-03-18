@@ -1,0 +1,21 @@
+<application>
+  <component name="libraryTable">
+    <library name="uv (persistor) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" />
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/code/nav/nav_lambdas/projects/persistor/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.3/python_stubs/716020522" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" />
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/code/nav/nav_lambdas/projects/persistor/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2025.3/python_stubs/716020522" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
