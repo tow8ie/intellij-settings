@@ -1,4 +1,7 @@
 <application>
+  <component name="cfnNodePromptState">
+    <option name="lastPromptTime" value="1776690587543" />
+  </component>
   <component name="cfnTelemetryPromptState">
     <option name="hasResponded" value="true" />
     <option name="lastPromptDate" value="1776678033799" />
