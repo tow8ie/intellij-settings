@@ -1,9 +1,13 @@
 <application>
+  <component name="cfnTelemetryPromptState">
+    <option name="hasResponded" value="true" />
+    <option name="lastPromptDate" value="1776678033799" />
+  </component>
   <component name="toolkit">
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
   </component>
   <component name="toolkitNotificationEtag">
-    <option name="etag" value="&quot;8155ead2d484a2daeb03438d50c02e6d&quot;" />
+    <option name="etag" value="&quot;19a4ec409b92ae1dea755e0d62f33ce0&quot;" />
   </component>
 </application>
