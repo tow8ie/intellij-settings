@@ -3,6 +3,7 @@
     <option name="structuralStyle" value="2" />
     <option name="maxInlineEvalResults" value="1" />
     <option name="openReplToolWindowAtStart" value="true" />
+    <option name="alwaysGenerateStubs" value="true" />
     <option name="ignoreFiles">
       <list>
         <option value="*-init.clj" />
