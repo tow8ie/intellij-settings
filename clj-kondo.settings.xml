@@ -1,0 +1,5 @@
+<application>
+  <component name="KondoSettings">
+    <option name="useKondoInNewProjects" value="YES" />
+  </component>
+</application>
