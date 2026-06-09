@@ -27,6 +27,7 @@
         <option name="pattern" value="**/github-copilot/**/*" />
       </FileSafetyRule>
     </editAutoApprove>
+    <option name="legacyXdgConfigMigrated" value="true" />
     <option name="enableTelemetry" value="false" />
   </component>
 </application>
