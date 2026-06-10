@@ -1,4 +1,7 @@
 <application>
+  <component name="cfnLspIntroPromptState">
+    <option name="hasResponded" value="true" />
+  </component>
   <component name="cfnNodePromptState">
     <option name="lastPromptTime" value="1778167631827" />
   </component>
