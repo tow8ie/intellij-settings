@@ -522,7 +522,7 @@
         <option name="FOREGROUND" value="eceff4" />
       </value>
     </option>
-    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_CONSTANT" baseAttributes="" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="616e88" />
