@@ -1172,5 +1172,40 @@
         </sourcePath>
       </roots>
     </jdk>
+    <jdk version="2">
+      <name value="~/code/nav/nav_scripts/.venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.12.11" />
+      <homePath value="$USER_HOME$/code/nav/nav_scripts/.venv/bin/python" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" type="simple" />
+            <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/code/nav/nav_scripts/.venv/lib/python3.12/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2026.2/python_stubs/1197132515" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jmespath" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/nav/nav_scripts" SDK_UUID="d8338a4b-d9e6-426f-acd9-3d910766a983" IS_UV="true" UV_WORKING_DIR="$USER_HOME$/code/nav/nav_scripts" UV_VENV_PATH="$USER_HOME$/code/nav/nav_scripts/.venv" UV_TOOL_PATH="/opt/homebrew/bin/uv">
+        <setting name="FLAVOR_ID" value="UvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{&quot;uvWorkingDirectory&quot;:&quot;/Users/tobias.adam/code/nav/nav_scripts&quot;,&quot;usePip&quot;:false,&quot;venvPath&quot;:&quot;/Users/tobias.adam/code/nav/nav_scripts/.venv&quot;,&quot;uvPath&quot;:&quot;/opt/homebrew/bin/uv&quot;}" />
+      </additional>
+    </jdk>
   </component>
 </application>

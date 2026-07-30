@@ -25,5 +25,10 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" />
       </SOURCES>
     </library>
+    <library name="~/code/nav/nav_scripts/.venv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
