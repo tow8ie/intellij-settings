@@ -248,7 +248,7 @@
         <option name="FOREGROUND" value="bcbec4" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="" />
+    <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="56a8f5" />
