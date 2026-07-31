@@ -25820,7 +25820,7 @@
         <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="STYLUS_FUNCTION_NAME">
       <value>
         <option name="FOREGROUND" value="88c0d0" />
