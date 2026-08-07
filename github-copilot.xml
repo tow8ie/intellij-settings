@@ -29,6 +29,7 @@
       </FileSafetyRule>
     </editAutoApprove>
     <option name="legacyXdgConfigMigrated" value="true" />
+    <option name="defaultMarketplacesSeeded" value="true" />
     <option name="enableTelemetry" value="false" />
   </component>
 </application>
