@@ -14,5 +14,6 @@
         <option value="1.12.2.1565" />
       </list>
     </option>
+    <option name="defaultAliases" value="dev,test" />
   </component>
 </application>
