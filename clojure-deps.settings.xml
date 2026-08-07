@@ -1,0 +1,18 @@
+<application>
+  <component name="DepsSettings">
+    <option name="availableDepsCljVersions">
+      <list>
+        <option value="1.12.5.1664" />
+        <option value="1.12.5.1654" />
+        <option value="1.12.5.1645" />
+        <option value="1.12.5.1638" />
+        <option value="1.12.4.1618" />
+        <option value="1.12.4.1597" />
+        <option value="1.12.4.1582" />
+        <option value="1.12.3.1577" />
+        <option value="1.12.2.1571" />
+        <option value="1.12.2.1565" />
+      </list>
+    </option>
+  </component>
+</application>
