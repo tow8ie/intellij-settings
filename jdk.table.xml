@@ -515,9 +515,9 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="5192e28c-e7b7-4db4-b1c8-27ff4a8413c5" IS_UV="true" UV_WORKING_DIR="$USER_HOME$/code/nav/nav_lambdas/projects/persistor">
+      <additional WORKING_DIRECTORY="$USER_HOME$/code/nav/nav_lambdas/projects/persistor" SDK_UUID="5192e28c-e7b7-4db4-b1c8-27ff4a8413c5" IS_UV="true" UV_WORKING_DIR="$USER_HOME$/code/nav/nav_lambdas/projects/persistor">
         <setting name="FLAVOR_ID" value="UvSdkFlavor" />
-        <setting name="FLAVOR_DATA" value="{}" />
+        <setting name="FLAVOR_DATA" value="{&quot;uvWorkingDirectory&quot;:&quot;/Users/tobias.adam/code/nav/nav_lambdas/projects/persistor&quot;}" />
       </additional>
     </jdk>
     <jdk version="2">
@@ -712,7 +712,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/nav/nav_scripts" SDK_UUID="d8338a4b-d9e6-426f-acd9-3d910766a983" IS_UV="true" UV_WORKING_DIR="$USER_HOME$/code/nav/nav_scripts" UV_VENV_PATH="$USER_HOME$/code/nav/nav_scripts/.venv" UV_TOOL_PATH="/opt/homebrew/bin/uv">
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/code/nav/nav_scripts" WORKING_DIRECTORY="$USER_HOME$/code/nav/nav_scripts" SDK_UUID="d8338a4b-d9e6-426f-acd9-3d910766a983" IS_UV="true" UV_WORKING_DIR="$USER_HOME$/code/nav/nav_scripts" UV_VENV_PATH="$USER_HOME$/code/nav/nav_scripts/.venv" UV_TOOL_PATH="/opt/homebrew/bin/uv">
         <setting name="FLAVOR_ID" value="UvSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{&quot;uvWorkingDirectory&quot;:&quot;/Users/tobias.adam/code/nav/nav_scripts&quot;,&quot;usePip&quot;:false,&quot;venvPath&quot;:&quot;/Users/tobias.adam/code/nav/nav_scripts/.venv&quot;,&quot;uvPath&quot;:&quot;/opt/homebrew/bin/uv&quot;}" />
       </additional>
