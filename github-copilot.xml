@@ -11,7 +11,6 @@
     </languageAllowList>
     <option name="showIdeCompletions" value="true" />
     <option name="chatNaturalLanguage" value="Englisch" />
-    <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="autoApproveUnmatchedTerminal" value="false" />
     <option name="terminalRulesVersion" value="2" />
     <editAutoApprove>
