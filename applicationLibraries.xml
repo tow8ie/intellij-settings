@@ -5,7 +5,7 @@
         <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" />
         <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" />
         <root url="file://$USER_HOME$/code/nav/nav_lambdas/projects/persistor/.venv/lib/python3.12/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2026.1/python_stubs/716020522" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2026.2/python_stubs/716020522" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jmespath" />
@@ -17,7 +17,7 @@
         <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" />
         <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" />
         <root url="file://$USER_HOME$/code/nav/nav_lambdas/projects/persistor/.venv/lib/python3.12/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2026.1/python_stubs/716020522" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2026.2/python_stubs/716020522" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jmespath" />
@@ -26,9 +26,31 @@
       </SOURCES>
     </library>
     <library name="~/code/nav/nav_scripts/.venv interpreter library">
-      <CLASSES />
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" />
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/code/nav/nav_scripts/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2026.2/python_stubs/1197132515" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jmespath" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Pygments" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" />
+      </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12" />
+        <root url="file://$USER_HOME$/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/lib-dynload" />
+        <root url="file://$USER_HOME$/code/nav/nav_scripts/.venv/lib/python3.12/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2026.2/python_stubs/1197132515" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/six" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/jmespath" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/Pygments" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/requests" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stubs/python-dateutil" />
+      </SOURCES>
     </library>
   </component>
 </application>

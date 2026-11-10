@@ -99,6 +99,7 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="Clj.Stuff.EvaluatePrevForm">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
@@ -149,6 +150,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl w" />
   </action>
   <action id="ReformatCode" />
+  <action id="RunAnything" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
