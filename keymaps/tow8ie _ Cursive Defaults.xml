@@ -99,6 +99,7 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="AIAssistant.Editor.AskAiAssistantInEditor" />
   <action id="ActivateBookmarksToolWindow" />
   <action id="Clj.Stuff.EvaluatePrevForm">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
